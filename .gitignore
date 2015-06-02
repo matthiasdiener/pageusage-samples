@@ -6,3 +6,4 @@ prodcons
 reduce
 *.stackmap
 *.csv
+*.csv.*
